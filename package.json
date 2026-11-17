@@ -1,0 +1,16 @@
+{
+  "name": "blind-people-free-fire-server",
+  "version": "1.0.0",
+  "description": "Blind People Free Fire Multiplayer Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
